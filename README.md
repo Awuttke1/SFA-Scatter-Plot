@@ -1,1 +1,2 @@
 # SFA-Scatter-Plot
+I chose these variables because I thought there may be some relationship between them, though I was unsure what it would be. I higher income could be because of a college or university education, which comes with lots of debt; but a low income family may have a harder time paying off the debt. It is hard to see exactly what the graph is showing (as it seems zoomed in and I dont know the scale of the axis), but it seems to show that the majority of respondants have a fairly low income and low amount of debt.
